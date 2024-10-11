@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <p>aku keren</p>
+    <p>SAYA GANTENG</p>
 </body>
 
 </html>
